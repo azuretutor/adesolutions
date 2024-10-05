@@ -419,23 +419,23 @@ section .title {
         background: crimson;
     }
 
-.skills-content .right .Azure::before {
+.skills-content .right .azure::before {
     width: 90%;
 }
 
-.skills-content .right .MnO::before {
+.skills-content .right .mno::before {
     width: 80%;
 }
 
-.skills-content .right .DevOps::before {
+.skills-content .right .devops::before {
     width: 80%;
 }
 
-.skills-content .right .Automation::before {
+.skills-content .right .automation::before {
     width: 70%;
 }
 
-.skills-content .right .CloudSecurity::before {
+.skills-content .right .cloudsecurity::before {
     width: 70%;
 }
 
