@@ -424,7 +424,7 @@ section .title {
 }
 
 .skills-content .right .MnO::before {
-    width: 60%;
+    width: 80%;
 }
 
 .skills-content .right .DevOps::before {
@@ -432,7 +432,7 @@ section .title {
 }
 
 .skills-content .right .Automation::before {
-    width: 50%;
+    width: 70%;
 }
 
 .skills-content .right .CloudSecurity::before {
