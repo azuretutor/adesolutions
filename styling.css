@@ -439,12 +439,12 @@ section .title {
     width: 70%;
 }
 
-/* teams section styling */
-.teams .title::after {
-    content: "who with me";
+/* events section styling */
+.training .title::after {
+    content: "Upcoming Class";
 }
 
-.teams .carousel .card {
+.training .carousel .card {
     background: #222;
     border-radius: 6px;
     padding: 25px 35px;
@@ -453,11 +453,11 @@ section .title {
     transition: all 0.3s ease;
 }
 
-    .teams .carousel .card:hover {
+    .training .carousel .card:hover {
         background: crimson;
     }
 
-    .teams .carousel .card .box {
+    .training .carousel .card .box {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -465,17 +465,17 @@ section .title {
         transition: all 0.3s ease;
     }
 
-    .teams .carousel .card:hover .box {
+    .training .carousel .card:hover .box {
         transform: scale(1.05);
     }
 
-    .teams .carousel .card .text {
+    .training .carousel .card .text {
         font-size: 25px;
         font-weight: 500;
         margin: 10px 0 7px 0;
     }
 
-    .teams .carousel .card img {
+    .training .carousel .card img {
         height: 150px;
         width: 150px;
         object-fit: cover;
@@ -484,7 +484,7 @@ section .title {
         transition: all 0.3s ease;
     }
 
-    .teams .carousel .card:hover img {
+    .training .carousel .card:hover img {
         border-color: #fff;
     }
 
